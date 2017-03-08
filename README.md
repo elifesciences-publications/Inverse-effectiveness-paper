@@ -4,5 +4,4 @@ This code is predicated on using a separate code, written by Chris Deister (http
 This code requires the raw data file tadpole_all_IEpaper, which is included in the paper's supplement. 
 Once tadpole_all_IEpaper is open in Matlab, the code in this repository will generate the graphs in figure 1 of the paper.
 
-Instructions for running the code:
-1. Begin by running 
+If you would like access to the raw image files, I am happy to provide them. I am working on getting them into a repository. 
